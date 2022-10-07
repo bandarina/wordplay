@@ -1,0 +1,11 @@
+.Header{
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    background-color: yellow;
+}
+.name{
+    margin-left: 5rem;
+    font-family: 'Sniglet', cursive;
+    font-size: 2.5rem;
+}

@@ -1,0 +1,29 @@
+.InstructionsTitle{
+    font-family: 'Outfit', sans-serif;
+    font-size: 3rem;
+}
+.Rules li{
+    list-style-type: decimal;
+    font-family: 'Outfit', sans-serif;
+    text-align: left;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.Rules{
+    width: 60%;
+    margin: 6vh auto;
+}
+.Start{
+    width: fit-content;
+    margin: 0 auto;
+    font-size: 1.5rem;
+    padding: 1rem;
+    font-family: 'Sniglet', cursive;
+    border: 2px solid red;
+}
+.Start:hover{
+    cursor: pointer;
+    background-color: red;
+    color: white;
+}
